@@ -1,3 +1,10 @@
+Newsopia is a news app made with react.js and react-bootstrap which fetches data from newsapi.org for developers which is free and has its limitations but works great for learning user can browse different category news from navbar. 
+all the code is in react class based components 
+learnt about how to work in class based components in react , infinite scroll package, a top-loading bar, react-router, how to hide data in .env.local
+faced many problems but it was fun adding features to the app :)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
